@@ -14,7 +14,9 @@ gem 'aws-sdk', '~> 2.2.14'
 gem 'masonry-rails', '~> 0.2.4'
 gem 'will_paginate', '~> 3.0.6'
 gem 'will_paginate-bootstrap'
+gem 'coffee-script-source', '1.8.0'
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+
 
 group :development, :test do
 	gem 'sqlite3'
